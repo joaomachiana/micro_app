@@ -1,0 +1,9 @@
+--- 
+cursor_positions: 
+  - :path: Gemfile
+    :cursor_offset: 239
+    :timestamp: 2013-07-19 15:00:09 +02:00
+  - :path: .gitignore
+    :cursor_offset: 451
+    :timestamp: 2013-07-19 15:05:10 +02:00
+files_to_retain: 0
